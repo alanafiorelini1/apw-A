@@ -1,2 +1,4 @@
-# apw-A
-Anotações da aula de APW com o professor Bruno
+# Análise de Projeto Web
+### Aula APW com o professor Bruno Zolotareff
+
+Aula 01 - Apresentação das Bases Tecnológicas
